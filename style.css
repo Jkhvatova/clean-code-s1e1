@@ -52,7 +52,8 @@
   list-style: none;
 }
 
-input, .btn {
+input,
+.btn {
   outline: none;
 }
 
@@ -134,7 +135,7 @@ input#new-task {
   width: 226px;
 }
 
-.task-item >    input[type="text"] {
+.task-item > input[type="text"] {
   width: 226px;
 }
 
