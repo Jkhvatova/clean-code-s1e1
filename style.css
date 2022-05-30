@@ -44,16 +44,16 @@
 }
 
 #incomplete-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .task-item, .task-list-header {
-  list-style:none;
+  list-style: none;
 }
 
 input, .btn {
-  outline:none;
+  outline: none;
 }
 
 .btn {
@@ -156,14 +156,14 @@ input#new-task {
 
 /* Edit Task */
 .task-item input[type=text] {
-  display:none
+  display: none
 }
 
 .task-item.edit-mode input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-item.edit-mode label {
-  display:none;
+  display: none;
 }
